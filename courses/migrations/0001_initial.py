@@ -72,3 +72,4 @@ class Migration(migrations.Migration):
             },
         ),
     ]
+# thay doi db
